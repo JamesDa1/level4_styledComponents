@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/level4_styledComponents/static/css/main.e6c13ad2.css",
+    "main.js": "/level4_styledComponents/static/js/main.590c5b00.js",
+    "static/js/787.10cefd62.chunk.js": "/level4_styledComponents/static/js/787.10cefd62.chunk.js",
+    "index.html": "/level4_styledComponents/index.html",
+    "main.e6c13ad2.css.map": "/level4_styledComponents/static/css/main.e6c13ad2.css.map",
+    "main.590c5b00.js.map": "/level4_styledComponents/static/js/main.590c5b00.js.map",
+    "787.10cefd62.chunk.js.map": "/level4_styledComponents/static/js/787.10cefd62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.590c5b00.js"
+  ]
+}
